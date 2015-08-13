@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/pre-dexed/debug/classes-010c3f78fba79046a8596090e98a68d30b065575.jar" />
+    </item>
+    <item
+        jar="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-f1d31d723eda0710ddc536fe3bb5c7bf8a469e25.jar" />
+    </item>
+    <item
+        jar="/Users/zhkqy/Downloads/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d7d94caff4cac310a4a55c4bc535024db3ca7f20.jar" />
+    </item>
+    <item
+        jar="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/zhkqy/Desktop/studioProject/wangyicaipiao/app/build/intermediates/pre-dexed/debug/classes-f4cb4fd437a1ae835f8eb7dfa6d046f39fb1edee.jar" />
+    </item>
+
+</items>

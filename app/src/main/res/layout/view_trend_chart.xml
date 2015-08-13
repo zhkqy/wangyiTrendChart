@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <com.wangyicaipiao.app.view.scrollview.MyHorizontalScrollView
+        android:id="@+id/top_scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:background="#00ff00"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/top_linearlayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"></LinearLayout>
+
+    </com.wangyicaipiao.app.view.scrollview.MyHorizontalScrollView>
+
+    <com.wangyicaipiao.app.view.MyScrollView
+        android:fadingEdgeLength="0dp"
+        android:id="@+id/left_scrollview"
+        android:layout_width="50dp"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="50dp"
+        android:background="#ffff00"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/left_linearlayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </com.wangyicaipiao.app.view.MyScrollView>
+
+    <com.wangyicaipiao.app.view.MiddleView
+        android:id="@+id/middle_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/top_scrollview"
+        android:layout_toRightOf="@id/left_scrollview">
+
+    </com.wangyicaipiao.app.view.MiddleView>
+
+
+</RelativeLayout>
